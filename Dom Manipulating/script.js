@@ -52,7 +52,7 @@ let div = document.getElementById("div");
 button.addEventListener("click", function() {
     let span = document.createElement("span");
     div.appendChild(span);
-    let text = document.createTextNode("Hey stranger" + " ");
+    let text = document.createTextNode("Cameron");
     span.appendChild(text);
 })*/
 

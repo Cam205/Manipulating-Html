@@ -39,7 +39,7 @@ $p.click( function() {
 let $button = $("#button");
 let $div = $("#div");
 $button.click( function() {
-    let $span = $("<span>Evan</span>");
+    let $span = $("<span>Cameron</span>");
     $($span).appendTo($div);
 });
 */
